@@ -1,0 +1,48 @@
+
+.LOGO{
+    display: flex;
+    margin-top: 4rem;
+    justify-content: space-around;
+  }
+  
+  .form_control{
+    margin-top: 10rem;
+    width: 40rem;
+    align-items: center;
+  }
+  
+  .a{
+    font-size: 40px;
+  }
+  
+  .b{
+    font-size: 30px;
+  }
+
+  hr.new1{
+    border-top: 10px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .mainComponent{
+    display: flex;
+    margin-top: 4rem;
+    justify-content: space-around;
+  }
+
+  .namaste{
+    margin-top: 8em;
+  }
+
+  .search{
+    align-items: center;
+  }
+
+  .card{
+    width: 20em;
+    margin-top: 2em;
+  }
+  .d-flex{
+    margin-top: 2em;
+  }
